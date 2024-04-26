@@ -1,0 +1,4 @@
+vendor
+.env
+rough.sql
+public/book_images
